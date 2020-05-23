@@ -1,2 +1,4 @@
 # Fibonacci-JAVA-
-Fibonacci in Java
+
+
+In the Fibonacci sequence, each number is the sum of the previous two numbers.
